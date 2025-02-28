@@ -1,0 +1,24 @@
+{
+    "name": "Denzel",
+    "description": " Denzel Badge",
+    "symbol": "DD",
+    "image": "https://i.imgur.com/lbmHj27.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Denzel EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
